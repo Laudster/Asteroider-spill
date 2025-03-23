@@ -9592,3 +9592,7 @@ run();
 
 // end include: postamble.js
 
+document.getElementById("status").remove();
+document.getElementById("controls").remove();
+document.getElementById("output").remove();
+document.querySelector("a").remove();
